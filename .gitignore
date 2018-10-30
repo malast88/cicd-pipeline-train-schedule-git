@@ -1,1 +1,8 @@
 node_modules
+dist
+
+# gradle
+/**/.gradle/*
+services/.m2
+services/*/out
+.gradle
